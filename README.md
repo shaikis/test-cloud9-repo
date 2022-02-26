@@ -1,5 +1,5 @@
 # test-cloud9-repo
 
 ```
-this repo will be used to close the core Repository and creates cloud9 setup.
+this repo will be used to clone the core Repository and creates cloud9 setup.
 ```
