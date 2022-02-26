@@ -13,7 +13,7 @@ terraform {
 }
 
 module "cloud9" {
-    source = "https://github.com/shaikis/terraform-aws-cloud9.git"
+    source = "git@github.com:shaikis/terraform-aws-cloud9.git"
     cloud9_env_name = var.cloud9_environment
     region = var.region
     cloud9_instance_type = var.cloud9_instance_type
